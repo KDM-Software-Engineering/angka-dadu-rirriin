@@ -12,7 +12,7 @@ function main() {
           genap++;
         }
     }
-      console.log (`Raka  mendapatkan angka ganjil sebanyak ${genap} kali dan angka genap sebanyak ${ganjil} kali`)
+      console.log (`Raka mendapatkan angka ganjil sebanyak ${genap} kali dan angka genap sebanyak ${ganjil} kali`)
     }
     main()
 
